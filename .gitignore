@@ -1,0 +1,31 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local game inputs, archives and generated exports
+game_files/
+Extracted*/
+*.zip
+*.bin
+*.cue
+*.iso
+*.000
+*.001
+*.raw
+*.RAW
+*.tim
+*.TIM
+SCUS_*
+SLUS_*
+*.obj
+*.mtl
+*.png
+extraction.log
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
